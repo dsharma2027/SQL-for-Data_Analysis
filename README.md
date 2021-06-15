@@ -13,4 +13,42 @@ You can think of each of these tables as an individual spreadsheet. Then the col
 
 ## Lesson 1: Basic SQL
 In this Section you will learn key commands to filter a Table
-  - 
+- SELECT 
+- FROM
+- LIMIT
+- ORDER BY
+- WHERE
+- WHERE with Non-Numeric
+- Arithmatic Operation
+- LIKE
+- IN 
+- NOT
+- AND
+- BETWEEN
+- OR
+
+## Lesson 2: SQL JOINS 
+In this Lesson you will learn how to combine data from multiple tables
+- Primary Keys
+- Foreign Keys
+- Alias
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL OUTER JOIN
+
+## Lesson 3: SQL Aggregations
+In this Lesson you will Learn to aggregate data using aggregation functions.
+- Introdution to NULL
+- COUNT and NULLS
+- SUM
+- MIN and MAX
+- AVG
+- GROUP BY
+- DISTINCT
+- HAVING
+- Date Function (DATEPART)
+- CASE Statement
+
+
+
