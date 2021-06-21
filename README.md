@@ -50,5 +50,13 @@ In this Lesson you will Learn to aggregate data using aggregation functions.
 - Date Function (DATEPART)
 - CASE Statement
 
+## Lesson 4: SQL Sub-qurries and Temprorary tables
+Concept of Subquries and Temprorary Tables
+- Subquery Formating
+- Subquery Examples
+- WITH Syntax
+- WITH Vs Subquery
+
+
 
 
